@@ -1,0 +1,6 @@
+C:\Users\Anders Hansen\Desktop\shootingControlSW\shootingControlSW.cydsn\shootingControlSW.cyprj|92e5f3da-425b-4362-9e64-9bb0170cbb8c
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|bf495bde-6ad0-43a0-8cfe-b7347054ee0d
+C:\Users\Anders Hansen\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\Downloads ( 4.2).cyprj|1a31fbfb-58b1-4cf6-a8f9-d1a9644c3e49
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|c1db14ba-308b-4ed3-bbb8-43ba020c89fd
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|03c5b4a6-acfa-403c-baf5-b5e035678a70
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|3102bedf-36ad-41c1-9797-2dae58e8324b

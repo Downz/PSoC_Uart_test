@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CyXmlSerializer>
+<!--This file is machine generated and read. It is not intended to be edited by hand.-->
+<!--Due to this, there is no schema for this file.-->
+<CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWrkspcCustomData" version="4">
+<CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997 type_name="CyDesigner.Common.Base.CyCustomData" version="2">
+<userData>
+<dataGuid v="1b906a0f-a7b6-4e4d-a428-82f98b53cb35">
+<CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35 type_name="CyDesigner.Common.ProjMgmt.GUI.CyExplorerWindow+CyExplorerWindowState" version="3" SelectedTab="Source">
+<TreeKeys>
+<v>Source</v>
+<v>Components</v>
+<v>Output</v>
+</TreeKeys>
+<TreeStates>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="ShootingStyringSW\shootingControlSW\Source Files\main.c">
+<ExpandedNodeIds>
+<v>ShootingStyringSW</v>
+<v>ShootingStyringSW\shootingControlSW</v>
+<v>ShootingStyringSW\shootingControlSW\TopDesign</v>
+<v>ShootingStyringSW\shootingControlSW\shootingControlSW.cydwr</v>
+<v>ShootingStyringSW\shootingControlSW\shootingControlSW.cydwr\Pins</v>
+<v>ShootingStyringSW\shootingControlSW\shootingControlSW.cydwr\Analog</v>
+<v>ShootingStyringSW\shootingControlSW\shootingControlSW.cydwr\Clocks</v>
+<v>ShootingStyringSW\shootingControlSW\shootingControlSW.cydwr\Interrupts</v>
+<v>ShootingStyringSW\shootingControlSW\shootingControlSW.cydwr\DMA</v>
+<v>ShootingStyringSW\shootingControlSW\shootingControlSW.cydwr\System</v>
+<v>ShootingStyringSW\shootingControlSW\shootingControlSW.cydwr\Directives</v>
+<v>ShootingStyringSW\shootingControlSW\shootingControlSW.cydwr\Flash Security</v>
+<v>ShootingStyringSW\shootingControlSW\shootingControlSW.cydwr\EEPROM</v>
+<v>ShootingStyringSW\shootingControlSW\Header Files</v>
+<v>ShootingStyringSW\shootingControlSW\Header Files\cyapicallbacks.h</v>
+<v>ShootingStyringSW\shootingControlSW\Source Files</v>
+<v>ShootingStyringSW\shootingControlSW\Source Files\main.c</v>
+<v>ShootingStyringSW\shootingControlSW\Generated_Source</v>
+<v>ShootingStyringSW\shootingControlSW\Generated_Source\PSoC5</v>
+</ExpandedNodeIds>
+<VisibleNodeIds />
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>ShootingStyringSW</v>
+<v>ShootingStyringSW\shootingControlSW</v>
+<v>ShootingStyringSW\shootingControlSW\TopDesign</v>
+<v>ShootingStyringSW\shootingControlSW\TopDesign\TopDesign.cysch</v>
+</ExpandedNodeIds>
+<VisibleNodeIds />
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>ShootingStyringSW</v>
+<v>ShootingStyringSW\shootingControlSW</v>
+<v>ShootingStyringSW\shootingControlSW\CortexM3</v>
+<v>ShootingStyringSW\shootingControlSW\CortexM3\ARM_GCC_541</v>
+<v>ShootingStyringSW\shootingControlSW\CortexM3\ARM_GCC_541\Debug</v>
+<v>ShootingStyringSW\shootingControlSW\CortexM3\ARM_GCC_541\Debug\Listing Files</v>
+<v>ShootingStyringSW\shootingControlSW\CortexM3\ARM_GCC_541\Debug\Listing Files\Clock_PWM.lst</v>
+<v>ShootingStyringSW\shootingControlSW\CortexM3\ARM_GCC_541\Debug\Listing Files\Cm3Start.lst</v>
+<v>ShootingStyringSW\shootingControlSW\CortexM3\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>ShootingStyringSW\shootingControlSW\CortexM3\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>ShootingStyringSW\shootingControlSW\CortexM3\ARM_GCC_541\Debug\Listing Files\CyDmac.lst</v>
+<v>ShootingStyringSW\shootingControlSW\CortexM3\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>ShootingStyringSW\shootingControlSW\CortexM3\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>ShootingStyringSW\shootingControlSW\CortexM3\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>ShootingStyringSW\shootingControlSW\CortexM3\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>ShootingStyringSW\shootingControlSW\CortexM3\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>ShootingStyringSW\shootingControlSW\CortexM3\ARM_GCC_541\Debug\Listing Files\CySpc.lst</v>
+<v>ShootingStyringSW\shootingControlSW\CortexM3\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>ShootingStyringSW\shootingControlSW\CortexM3\ARM_GCC_541\Debug\Listing Files\isr_uart_rx.lst</v>
+<v>ShootingStyringSW\shootingControlSW\CortexM3\ARM_GCC_541\Debug\Listing Files\LED.lst</v>
+<v>ShootingStyringSW\shootingControlSW\CortexM3\ARM_GCC_541\Debug\Listing Files\main.lst</v>
+<v>ShootingStyringSW\shootingControlSW\CortexM3\ARM_GCC_541\Debug\Listing Files\Pin_PWM.lst</v>
+<v>ShootingStyringSW\shootingControlSW\CortexM3\ARM_GCC_541\Debug\Listing Files\PWM_1.lst</v>
+<v>ShootingStyringSW\shootingControlSW\CortexM3\ARM_GCC_541\Debug\Listing Files\PWM_1_PM.lst</v>
+<v>ShootingStyringSW\shootingControlSW\CortexM3\ARM_GCC_541\Debug\Listing Files\PWMFuncs.lst</v>
+<v>ShootingStyringSW\shootingControlSW\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_1.lst</v>
+<v>ShootingStyringSW\shootingControlSW\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_1_BOOT.lst</v>
+<v>ShootingStyringSW\shootingControlSW\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_1_INT.lst</v>
+<v>ShootingStyringSW\shootingControlSW\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_1_IntClock.lst</v>
+<v>ShootingStyringSW\shootingControlSW\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_1_PM.lst</v>
+<v>ShootingStyringSW\shootingControlSW\CortexM3\ARM_GCC_541\Debug\shootingControlSW.elf</v>
+<v>ShootingStyringSW\shootingControlSW\CortexM3\ARM_GCC_541\Debug\shootingControlSW.hex</v>
+<v>ShootingStyringSW\shootingControlSW\CortexM3\ARM_GCC_541\Debug\shootingControlSW.map</v>
+<v>ShootingStyringSW\shootingControlSW\shootingControlSW.gpdsc</v>
+<v>ShootingStyringSW\shootingControlSW\shootingControlSW.rpt</v>
+<v>ShootingStyringSW\shootingControlSW\shootingControlSW_timing.html</v>
+</ExpandedNodeIds>
+<VisibleNodeIds />
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStates>
+<TreeKeysV2>
+<v>Datasheet</v>
+</TreeKeysV2>
+<TreeStatesV2>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>ShootingStyringSW</v>
+<v>ShootingStyringSW\shootingControlSW</v>
+<v>ShootingStyringSW\shootingControlSW\PSoC 5LP Architecture TRM</v>
+<v>ShootingStyringSW\shootingControlSW\CY8C58LP Family Datasheet</v>
+<v>ShootingStyringSW\shootingControlSW\System Reference Guides</v>
+<v>ShootingStyringSW\shootingControlSW\System Reference Guides\cy_boot_v5_50</v>
+<v>ShootingStyringSW\shootingControlSW\cy_clock_v2_20.pdf</v>
+<v>ShootingStyringSW\shootingControlSW\cy_isr_v1_70.pdf</v>
+<v>ShootingStyringSW\shootingControlSW\cy_pins_v2_20</v>
+<v>ShootingStyringSW\shootingControlSW\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>ShootingStyringSW\shootingControlSW\PWM_v3_30.pdf</v>
+<v>ShootingStyringSW\shootingControlSW\UART_v2_50.pdf</v>
+</ExpandedNodeIds>
+<VisibleNodeIds />
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStatesV2>
+</CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35>
+</dataGuid>
+</userData>
+</CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
+<Unloaded />
+<OpenDocs>
+<name v=".\shootingControlSW.cydsn\main.c" />
+<name v=".\shootingControlSW.cydsn\TopDesign\TopDesign.cysch" />
+<name v=".\shootingControlSW.cydsn\shootingControlSW.cydwr" />
+</OpenDocs>
+<OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
+
+  Actipro Docking/MDI for WinForms
+  Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
+  http://www.actiprosoftware.com
+
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1035, 573" SelectedTabbedMdiWindow="d19e0a8d-9235-4e7f-a33c-081f5d8e1b99"><DocumentWindow Key="C:\Users\Anders Hansen\Desktop\shootingControlSW\shootingControlSW.cydsn\main.c" Guid="d19e0a8d-9235-4e7f-a33c-081f5d8e1b99" /><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="7cf982b7-7902-4ec6-a34a-8d48204e578f" /><DocumentWindow Key="C:\Users\Anders Hansen\Desktop\shootingControlSW\shootingControlSW.cydsn\TopDesign\TopDesign.cysch" Guid="fc594dc0-e679-4724-8db7-f01c203b2f88" /><DocumentWindow Key="C:\Users\Anders Hansen\Desktop\shootingControlSW\shootingControlSW.cydsn\shootingControlSW.cydwr" Guid="3fea338e-62f8-434b-8ee5-a18b3a6fe400" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+<config v="" />
+<AutoUpdate v="true" />
+</CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
+</CyXmlSerializer>
